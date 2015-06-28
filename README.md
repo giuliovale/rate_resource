@@ -1,1 +1,2 @@
-# rate_resource
+#1 Rate Resource 
+Plugin Moodle per la valutazione delle risorse
