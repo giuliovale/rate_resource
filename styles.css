@@ -1,0 +1,35 @@
+.rate_resource .fitemtitle {
+    clear: both;
+    display: inline !important;
+    float: none;}
+
+.rate_resource .fitemtitle label {
+    font-weight: none;}
+        
+.rate_resource div.fitemtitle {
+    float: none !important; }
+    
+.rate_resource .fgroup {
+   margin-left: 0px !important; 
+   }
+   
+.rate_resource .ftextarea {
+   margin-left: 0px !important; 
+   }
+   
+.rate_resource .fsubmit {
+   margin-left: 0px !important; 
+   }
+
+.rate_resource .fitem {
+   margin-bottom:20px !important; 
+   }
+   
+.block_rate_resource div.column  {
+   
+} 
+
+.block_rate_resource .column   {
+  
+} 
+
